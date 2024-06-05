@@ -4,6 +4,19 @@ Mô hình OSI (Open Systems Interconnection) là một chuẩn quốc tế đư�
 ![Untitled](https://github.com/DiWien/Traning-Networking/assets/88604764/e609f156-ef92-4f7e-8ca1-4747faaa6c82)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+  
 -----------------------------------7 Layer-------------------------------------
 |-------------------------------- Application --------------------------------|
 |-------------------------------- Presentation--------------------------------|
