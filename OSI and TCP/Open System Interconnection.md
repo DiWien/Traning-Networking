@@ -1,6 +1,7 @@
 Mô hình OSI (Open Systems Interconnection) là một chuẩn quốc tế được phát triển bởi Tổ chức Tiêu chuẩn Quốc tế (ISO) nhằm mô tả cách các hệ thống mạng máy tính giao tiếp với nhau. Mô hình OSI chia giao tiếp mạng thành bảy tầng riêng biệt, mỗi tầng có một chức năng cụ thể. 
 
 
+![Untitled](https://github.com/DiWien/Traning-Networking/assets/88604764/e609f156-ef92-4f7e-8ca1-4747faaa6c82)
 
 
 -----------------------------------7 Layer-------------------------------------
