@@ -4,11 +4,17 @@ Mô hình OSI (Open Systems Interconnection) là một chuẩn quốc tế đư�
 
 
 [Data] - Application : Network process to application -Ứng Dụng (7)
+
 [Data] - Presentation : Data representation and Encryption -Biến Dữ Liệu (6)
+
 [Data] - Session Interhost communication -Kiểm soát nối (5)
+
 [Segments] - Transport : End to end connections and Reliability - Vận chuyển (4)
+
 [Packets] - Network : Path determination and IP (Logical addressing) - Mạng(3)
+
 [Frames] - Data link:  Mac and LLC -Liên kết dữ liệu (2)
+
 [Bits] - Physical : Media, signal and binary transmission - Vật Lí (1)
 
 Những ưu điểm của OSI đó là:
