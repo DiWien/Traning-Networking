@@ -1,14 +1,7 @@
 Mô hình OSI (Open Systems Interconnection) là một chuẩn quốc tế được phát triển bởi Tổ chức Tiêu chuẩn Quốc tế (ISO) nhằm mô tả cách các hệ thống mạng máy tính giao tiếp với nhau. Mô hình OSI chia giao tiếp mạng thành bảy tầng riêng biệt, mỗi tầng có một chức năng cụ thể. 
 
------------------------------------7 Layer-------------------------------------
-|-------------------------------- Application --------------------------------|
-|-------------------------------- Presentation--------------------------------|
-|------------------------------------Sesion-----------------------------------|
-|---------------------------------- Transport --------------------------------|
-|---------------------------------- Data link --------------------------------|
-|--------------------------------- Network------------------------------------|
-|---------------------------------- Physical ---------------------------------|
--------------------------------------------------------------------------------
+7 Layer : Application - Presentation - Sesion-Transport -Data link - Network - Physical 
+
 
 [Data] - Application : Network process to application --------------------------------------------- Ứng Dụng (7)
 [Data] - Presentation : Data representation and Encryption ---------------------------------------- Biến Dữ Liệu (6)
