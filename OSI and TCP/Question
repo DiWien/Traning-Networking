@@ -1,0 +1,90 @@
+Trang chủTrắc nghiệm IT TestTrắc nghiệm môn Lập trình IT Test
+CÂU HỎI TRẮC NGHIỆM LẬP TRÌNH MẠNG CÓ ĐÁP ÁN - PHẦN 6
+Bộ câu hỏi trắc nghiệm Lập trình mạng có đáp án phần 6 bao gồm 50 câu hỏi trắc nghiệm Lập trình mạng đầy đủ nội dung cả lý thuyết và thực hành
+Danh sách câu hỏi Đáp án
+
+
+Câu 1. Phương thức accept() của lớp ServerSocket có tác dụng gì?
+-> Lắng nghe một kết nối đến socket này và chấp nhận nó 
+
+Câu 2. Truyền dữ liệu theo phương thức UDP là dạng truyền dữ liệu?
+-> Đảm Bảo
+
+Câu 3. Truyền dữ liệu theo phương thức UDP?
+-> Không đòi hỏi nhiều tài nguyên của hệ thống
+
+Câu 4. Truyền dữ liệu theo phương thức UDP được sử dụng trong ứng dụng?
+-> Mang tính chất thông báo
+
+Câu 5. UDP là viết tắt của?
+-> User Datagram Protocol
+
+Câu 6. UDP sử dụng các lớp là?
+-> UDP Client
+
+Câu 7. UDP sử dụng mô hình mạng nào?
+-> Mô hình OSI và TCP/IP
+
+Câu 8. DatagramSocket được dùng để truyền và nhận các?
+-> DatagramPacket
+
+Câu 9. Chiều dài dữ liệu tối đa có thể đưa vào DatagramPacket là khoảng?
+-> Khoảng 60.000 byte (Phụ thuộc vào đường truyền)
+
+Câu 10. Trên cùng một máy tính, cổng trong giao thức TCP và UDP có thể trùng nhau hay không?
+-> Không
+
+Câu 11. Phạm vi truy cập của một đối tượng khi được khai báo public là gì?
+-> Có thể truy cập từ tất cả mọi nơi
+
+Câu 12. Java Virtual Machine là gì?
+-> là một thành phần của java Plataform dùng dể đọc mã bytecode trong file .class
+
+Câu 13. Phương thức receive( DatagramPackage p) trong lớp DatagramSocket được sử dụng với mục đích gì?
+-> Để nhận gói dữ liệu p về
+
+Câu 14. Các máy tính trên Internet giao tiếp với nhau thông qua giao thức gì?
+-> IP, UDP , TCP
+
+Câu 15. Khi chạy ứng dụng theo mô hunh Client/Server, thì chương trình nào phải chạy trước?
+-> Server chạy trước
+
+Câu 16. Multicast là gì?
+-> Là Mô hình truyền thông one-to-many sử dụng chiến lược phân phối các thông điệp chỉ một lần 
+
+Câu 17. Địa chỉ Multicast là dải địa chỉ nào?
+-> 224.0.0.0 - 255.255.255.255
+
+Câu 18. Một nhóm multicast là một tập hợp các host cùng chia sẻ một địa chỉ multicast. Để tạo một nhóm multicast ta làm như thế nào?
+-> Chọn 1 nhóm địa chỉ ngẫu nhiên từ 255.0.0.0 đến 255.255.255.255
+
+Câu 19. Sự khác nhau giữa truyền thông muticast và truyền thông broadcast là gì 
+-. Multicast là gửi cho nhiều mạng được định nghĩa với multicast
+
+câu 20. Giao thức nào sửa dụng ip 224.0.0.5 và 224.0.0.6 cho truyền thông multicast
+-> OSPF
+
+Câu 21 Trên Mô hình client và server một server sẽ phục yêu cầu của nhiều client
+
+Câu 22. Trong cùng một máy có nhiều ứng dụng mạng cùng chạy, để phân biệt các ứng dụng với nhau thường dùng thông số nào sau đây?
+-> Port D
+
+Câu 23 Mỗi gói dữ liệu chwuas các thông tin .. , ... , ... và ....
+-> Dữ Liệu - Chiều dài gói - địa chỉ IP và Số cổng
+
+Câu 24 Lớp nào cung cấp các phương tiện để người sử dụng có thể truy cập được vài môi trường osi và cung cấp các dịch vụ thông tin phân tán 
+-> Application
+
+Câu 25 Tầng nào trong mô hình OSI làm việc với các tín hiệu điện
+-> Physical 
+
+Câu 26 Cấp phát địa chỉ độgn Ip ta dùng giao thức nào ?
+-> Giao thức DHCP
+
+Câu 27 Protocol là gì ? 
+-> lÀ một trong những thành phần k thể thiếu trong hệ thống mạng | là các qui tắc để cho phép các máy tính giao tiếp được với nhau
+
+câu 28 kiểu dữ liệu byte có phạm vi khoảng -128 -> 127+
+
+câu 29 TCP Service là giao thức điều kiển truyền vận là một trong các giao thức cốt lõi của bộ giao thức tcp/ip
+
