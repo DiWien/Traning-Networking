@@ -68,3 +68,6 @@ The core components (TCP, UDP, IP, etc.) manage the flow of data from applicatio
 --------------------------------------------------------------------------------------------
 
 ![image](https://github.com/DiWien/Traning-Networking/assets/88604764/a43e1273-d47c-4ec0-8ce7-e677047aecab)
+
+![image](https://github.com/DiWien/Traning-Networking/assets/88604764/2acf737a-2293-4a68-9c14-3e4722b5d21d)
+
