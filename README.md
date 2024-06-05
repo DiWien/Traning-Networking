@@ -1,3 +1,5 @@
 # Traning-Networking
 I Just do for my self
-![so-sanh-mo-hinh-osi-va-tcp-ip](https://github.com/DiWien/Traning-Networking/assets/88604764/a2ca493c-5a5c-4f4e-a580-3d895e9701bb)
+
+
+![OSI AND TCPIP](https://github.com/DiWien/Traning-Networking/assets/88604764/afe57994-5e9b-4fb7-877b-a916a4739a01)
