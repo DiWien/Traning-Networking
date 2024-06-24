@@ -84,3 +84,8 @@ câu 28 kiểu dữ liệu byte có phạm vi khoảng -128 -> 127+
 
 câu 29 TCP Service là giao thức điều kiển truyền vận là một trong các giao thức cốt lõi của bộ giao thức tcp/ip
 
+ CSMA/CD stand for Connection Sensing Multicast Address/ Connection Detection
+ OSI TRANSPORT Layer (4) is responsible for segments
+ OSI DATA LAYER(2) is reponseible for Frames
+ OSI Application Layer(7) is HTTP 
+
